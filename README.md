@@ -1,2 +1,0 @@
-# BootstrapReact
-Created with CodeSandbox
